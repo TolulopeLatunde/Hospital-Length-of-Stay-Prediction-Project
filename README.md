@@ -1,4 +1,4 @@
-# Hospital-Length-of-Stay-Prediction-Project
+# Predicting-Hospital-Length-of-Stay-Project
 
 **Project Overview**
 This project aims to predict the length of stay for patients admitted to a hospital using machine learning and data analytics techniques. The goal is to provide hospitals with more accurate predictions to improve resource planning and patient management.
